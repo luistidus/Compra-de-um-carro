@@ -156,12 +156,10 @@ class MainClass {
             }
             }
             
-            Console.WriteLine("O valor total do carro é"+soma);
-            
-        
-            
+            Console.WriteLine("O valor total do carro é"+soma);                       
           }
-            else
+    
+          else
             {
              Console.WriteLine("Infelizmete nao esta habilitado a compra de um carro"); 
             }
